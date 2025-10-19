@@ -1,0 +1,10 @@
+# Battery Saver - Python Dependencies
+# Copyright (c) 2025 Daniel
+# Licensed under the MIT License
+
+# Menu bar application framework for macOS
+rumps==0.3.0
+
+# Optional: For future enhancements
+# psutil==5.9.6  # Process and system monitoring
+# pyyaml==6.0.1  # YAML configuration support
