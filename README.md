@@ -8,7 +8,9 @@
 
 ## ✨ Features
 
-- 🔋 **Automatic Low Power Mode** - Automatically enables Low Power Mode at your specified battery percentage
+- 🔋 **Dual Operating Modes**:
+  - **Automatic Mode** - Automatically enables Low Power Mode at your threshold (requires one-time setup)
+  - **Prompt Mode** - Asks you to enable Low Power Mode manually (works immediately, Mac App Store compatible)
 - 🎚️ **Threshold Slider** - Easily adjust activation threshold from 5% to 95% via dropdown menu
 - 💤 **Visual Indicators** - Clear menu bar icons show battery and Low Power Mode status
 - ⚡ **Manual Controls** - Enable or disable Low Power Mode with one click
@@ -26,6 +28,8 @@
 ├──────────────────────────────────┤
 │ ✓ Enabled                        │ ← Enable Low Power Mode
 │   Disabled                       │ ← Disable Low Power Mode
+├──────────────────────────────────┤
+│ Mode: Automatic                  │ ← Toggle between Auto/Prompt
 ├──────────────────────────────────┤
 │ Current Battery                  │
 │ Current Power Mode               │
@@ -73,15 +77,25 @@ The app will appear in your menu bar!
 
 Battery Saver will now start automatically every time you log in.
 
-### Passwordless Setup (Recommended)
+### Operating Modes
 
-To enable/disable Low Power Mode without entering your password:
+Battery Saver has two modes:
 
-```bash
-./setup_passwordless_pmset.sh
-```
+**1. Prompt Mode (Default)**
+- Works immediately, no setup required
+- Opens System Settings when battery hits threshold
+- You manually enable Low Power Mode
+- **Mac App Store compatible**
 
-This creates a secure sudoers rule that allows **only** the `pmset lowpowermode` command to run without a password.
+**2. Automatic Mode (Recommended)**
+- Enables Low Power Mode automatically
+- Requires one-time passwordless setup:
+  ```bash
+  ./setup_passwordless_pmset.sh
+  ```
+- Creates a secure sudoers rule for `pmset lowpowermode` only
+
+**Switch modes:** Click "Mode: ..." in the menu to toggle between Auto and Prompt modes.
 
 ## 📋 Requirements
 
@@ -247,6 +261,21 @@ SOFTWARE.
 
 ## 🔄 Changelog
 
+### [1.1.0] - 2025-10-24
+
+**Added:**
+- **Dual mode support**: Automatic Mode and Prompt Mode
+- Automatic mode detection (checks if passwordless sudo is configured)
+- User-switchable modes via menu
+- Prompt Mode opens System Settings with helpful notifications
+- Updated About dialog with mode information
+- Mac App Store compatibility via Prompt Mode
+
+**Changed:**
+- Default mode is now Prompt Mode (no setup required)
+- Enhanced user experience with mode indicators
+- Version bumped to 1.1.0
+
 ### [1.0.0] - 2025-10-18
 
 **Added:**
@@ -265,11 +294,27 @@ SOFTWARE.
 
 ## 🚦 Status
 
-**Version:** 1.0.0
+**Version:** 1.1.0
 **Status:** Stable
-**Last Updated:** October 18, 2025
+**Last Updated:** October 24, 2025
 **Compatibility:** macOS 10.14+ (Mojave and later)
 
 ---
 
 **Made with ❤️ for macOS users who want smarter battery management**
+
+
+---
+
+## License
+
+Copyright (c) 2025 Daniel Bates / BatesAI
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Copyright Notice
+
+While this code is open source under the MIT License, the BatesAI brand name and associated trademarks are proprietary. Please do not use the BatesAI name or logo without permission.
+
+For commercial support or custom development, contact: daniel@batesai.org
+
