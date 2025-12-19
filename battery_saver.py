@@ -12,6 +12,15 @@ import os
 from typing import Dict, Any, Optional
 import time
 
+try:
+    import AppKit  # type: ignore
+    info = AppKit.NSBundle.mainBundle().infoDictionary()
+    if info is not None:
+        info["LSUIElement"] = "1"
+except Exception:
+    # Non-fatal: if AppKit unavailable (e.g., tests), fall back to default behavior.
+    pass
+
 
 class BatterySaver(rumps.App):
     """Menu bar app to automatically enable Low Power Mode at specified battery levels."""
