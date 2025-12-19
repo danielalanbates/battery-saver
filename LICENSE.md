@@ -2,6 +2,8 @@
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
 
+Required Notice: Copyright Daniel Bates (daniel@batesai.org / https://batesai.org)
+
 ## Acceptance
 
 In order to get any license under these terms, you must agree
@@ -35,7 +37,7 @@ URL for them above, as well as copies of any plain-text lines
 beginning with `Required Notice:` that the licensor provided
 with the software.  For example:
 
-> Required Notice: Copyright Daniel Bates (https://batesai.org)
+> Required Notice: Copyright Daniel Bates (daniel@batesai.org / https://batesai.org)
 
 ## Changes and New Works License
 
