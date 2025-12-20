@@ -1,52 +1,68 @@
-BatesAI Personal & Revenue Share License v1.0
-===========================================
+BatesAI Personal & Revenue Share License v1.1
+============================================
 
-Summary
--------
-- Free for personal projects: download, run, study, and modify the software for yourself.
-- Always credit Daniel Bates and link to https://batesai.org in apps, docs, and marketing.
-- Any organization (yes, nonprofits too) must either buy a commercial license or share 10% of gross revenue from every sale that uses this software.
-- If you ship or sell anything built on this software without meeting the terms below, your license ends immediately.
+Licensor: Daniel Bates d/b/a BatesAI ("BatesAI")
+Contact: daniel@batesai.org | https://batesai.org
 
-1. Personal Use Rights
-----------------------
-You may use and modify the software for your own personal, hobby, research, learning, or evaluation projects for free. You may share personal builds with friends or teammates as long as they also receive a copy of this license.
+Summary (Not Legal Terms)
+-------------------------
+- Free for personal tinkering—just keep the credit to BatesAI.
+- Any organization (including nonprofits, schools, clients, side-gigs, or employers) must either buy a commercial license or remit 10% of gross receipts, including subscription income, attributable to this software.
+- If you monetize without honoring attribution or payments, your license ends automatically.
 
-2. Attribution
+1. Definitions
 --------------
-Keep the following notice wherever you showcase or distribute the software (about pages, splash screens, README files, app store listings, etc.):
+"Software" means the code, binaries, designs, documentation, and other materials provided under this license, including any modifications you make.
+"Personal Use" means use by a natural person solely for personal learning, experimentation, or hobby projects where no entity (employer, client, company, nonprofit, or government) benefits and no revenue is generated.
+"Gross Receipts" include all consideration—cash or in-kind—from sales, licenses, subscriptions (monthly, annual, per-seat, usage-based), service retainers, bundles, sponsorships, or any monetized deployment that incorporates the Software.
+"Organizational Use" includes any use by or for a business, client, employer, contractor, nonprofit, school, or government entity regardless of profit status.
 
-"Built with BatesAI software by Daniel Bates (https://batesai.org)."
+2. Personal License Grant
+-------------------------
+Subject to this agreement, BatesAI grants you a worldwide, non-exclusive, non-transferable, revocable license to run, modify, and share the Software for Personal Use at no cost.
 
-You may tweak the wording for grammar, but the credit and link must stay.
+3. Attribution Requirement
+-------------------------
+All distributions, showcases, user interfaces, documentation, marketing materials, and app store listings that include the Software must display: "Built with BatesAI software by Daniel Bates (https://batesai.org)."
+You may adjust formatting but the words "BatesAI" and the URL must remain legible wherever credits normally appear.
 
-3. Sharing Source Code
-----------------------
-You can share modified or unmodified versions with other individuals for personal use only if you include:
-- A copy of this license, and
-- Clear attribution to Daniel Bates with the same link requirement above.
+4. Sharing for Personal Use
+---------------------------
+You may share unmodified or modified versions for Personal Use only if you:
+(a) include this complete license, and
+(b) preserve the attribution described above.
 
-4. Commercial & Organizational Use
+5. Organizational & Commercial Use
 ----------------------------------
-"Commercial" means any use by or for a company, client project, employer, contractor, school, nonprofit, or government entity—even if no money changes hands yet.
+Any Organizational Use requires **one** of the following prior to launch, sale, or external deployment:
+(a) a written commercial license from BatesAI, or
+(b) payment of a revenue share equal to ten percent (10%) of Gross Receipts attributable to the Software, including but not limited to subscriptions, recurring maintenance fees, pay-per-use charges, licensing royalties, and bundled product revenue.
 
-If you want to ship, sell, host, or deploy this software (or anything derived from it) for any organization, you must do **one** of the following before launch:
+6. Reporting & Payment Mechanics
+--------------------------------
+If you choose revenue sharing, you must:
+- Email monthly revenue summaries to daniel@batesai.org within fifteen (15) days after each month ends, and
+- Remit the 10% payment within the same fifteen-day window via a method specified by BatesAI.
+Late or missing reports or payments immediately suspend this license for Organizational Use until cured.
 
-1. Contact Daniel Bates at daniel@batesai.org to purchase a commercial license, **or**
-2. Remit a revenue share equal to 10% of gross revenue from every sale, license, or subscription that includes this software.
-
-If you choose the revenue-share option, email monthly sales totals and proof of payment to daniel@batesai.org. Missing payments or reports terminates your license automatically.
-
-5. No Sublicensing or White-Labeling
+7. No Sublicensing or White Labeling
 ------------------------------------
-You cannot remove the attribution, claim the software as exclusively yours, or sublicense it to others under different terms.
+You may not sublicense, relicense, white-label, or represent the Software as exclusively your own. Clients and end users must receive this license and the attribution notice.
 
-6. No Warranty
---------------
-The software is provided "as is" with no warranties. Daniel Bates is not liable for any damages arising from its use.
+8. Term & Termination
+---------------------
+This license remains in effect until terminated. BatesAI may terminate immediately if you breach any term. You have fourteen (14) days after written notice to cure a breach, except that unauthorized commercial deployment or failure to pay revenue share results in immediate termination. Upon termination you must cease distribution and use unless a new written agreement is executed.
 
-7. Termination
---------------
-If you violate these terms and do not fix the issue within 14 days of written notice, your license automatically ends. Continued use after termination requires a new written agreement from Daniel Bates.
+9. Disclaimer of Warranty & Liability
+-------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. BATESAI IS NOT LIABLE FOR ANY DAMAGES OR CLAIMS ARISING FROM USE OF THE SOFTWARE, INCLUDING LOST PROFITS, BUSINESS INTERRUPTION, OR DATA LOSS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-Questions? Email daniel@batesai.org before you ship. Thanks for supporting independent builders.
+10. Governing Law & Venue
+-------------------------
+This license is governed by the laws of the State of California, excluding conflict-of-law rules. Any disputes will be litigated exclusively in the state or federal courts located in Los Angeles County, California, and you consent to personal jurisdiction there.
+
+11. Entire Agreement
+--------------------
+This document constitutes the entire agreement for the Software. Changes require a signed writing from BatesAI.
+
+Questions? Email daniel@batesai.org before you ship or sell anything built on the Software.

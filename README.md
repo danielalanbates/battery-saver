@@ -320,10 +320,10 @@ For commercial support or custom development, contact: daniel@batesai.org
 
 ## License & Commercial Use
 
-- **Personal projects:** Free to download, study, and modify for your own hobby, research, or learning needs.
-- **Attribution required:** Include “Built with BatesAI software by Daniel Bates (https://batesai.org)” anywhere you showcase or distribute this work.
-- **Organizations & monetization:** Any company, client, school, nonprofit, or government project must either buy a commercial license (daniel@batesai.org) or share 10% of gross revenue from every sale that includes this software.
-- **Compliance:** Missing attribution, skipping payments, or sublicensing under new terms immediately sunsets your access until the issue is fixed.
+- **Personal tinkering:** Free to download, study, and modify for your own hobby, learning, or research projects as long as you keep the required credit.
+- **Attribution:** Always display “Built with BatesAI software by Daniel Bates (https://batesai.org)” anywhere the app, docs, marketing pages, or listings mention the product.
+- **Organizations & monetization:** Any company, client, employer, school, nonprofit, or government team must either obtain a BatesAI commercial license (daniel@batesai.org) or remit a 10% share of gross receipts—including one-time purchases, subscriptions (monthly, annual, seat-based, usage-based), service retainers, and bundled sales—that rely on this software.
+- **Reporting:** Revenue-share users must send monthly revenue summaries plus payment within 15 days of month-end or the license automatically pauses.
 
-Read the full “BatesAI Personal & Revenue Share License v1.0” in LICENSE.
+Read the full “BatesAI Personal & Revenue Share License v1.1” in LICENSE for legal terms, including no sublicensing and California governing law.
 
