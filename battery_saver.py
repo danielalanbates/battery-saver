@@ -2,7 +2,7 @@
 """
 Battery Saver - Automatic Low Power Mode Manager for macOS
 Copyright (c) 2025 Daniel
-Licensed under the MIT License
+Licensed under the Polyform Noncommercial License 1.0.0
 """
 
 import rumps
@@ -437,7 +437,7 @@ class BatterySaver(rumps.App):
                     f"⚡ - At Threshold\n\n"
                     f"Automatically enables Low Power Mode when your battery reaches the specified threshold.\n\n"
                     f"© 2025 Daniel\n"
-                    f"Licensed under MIT License"
+                    f"Licensed under the Polyform Noncommercial License 1.0.0"
         )
 
     @rumps.clicked("Quit")

@@ -4,7 +4,7 @@
 
 ![macOS](https://img.shields.io/badge/macOS-10.14%2B-blue)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Polyform%20NC-purple)
 
 ## ✨ Features
 
@@ -193,7 +193,7 @@ Battery_saver/
 ├── setup_passwordless_pmset.sh   # Passwordless setup
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
-└── LICENSE                       # MIT License
+└── LICENSE                       # Polyform Noncommercial License
 ```
 
 ## 🧪 Testing
@@ -223,31 +223,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Polyform Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) — see the [LICENSE](LICENSE) file for full terms.
 
-```
-MIT License
+**You may:**
+- Use, modify, and share the software for personal, educational, research, or other noncommercial purposes.
 
-Copyright (c) 2025 Daniel
+**You may not:**
+- Use the software in any commercial product or service without explicit written permission.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+For commercial licensing inquiries, email **daniel@batesai.org**.
 
 ## 🙏 Acknowledgments
 
@@ -310,11 +294,11 @@ SOFTWARE.
 
 Copyright (c) 2025 Daniel Bates / BatesAI
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Polyform Noncommercial License 1.0.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Copyright Notice
 
-While this code is open source under the MIT License, the BatesAI brand name and associated trademarks are proprietary. Please do not use the BatesAI name or logo without permission.
+While this code is available for noncommercial use under the Polyform Noncommercial License, the BatesAI brand name and associated trademarks are proprietary. Please do not use the BatesAI name or logo without permission.
 
 For commercial support or custom development, contact: daniel@batesai.org
 
