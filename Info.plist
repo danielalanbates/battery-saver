@@ -2,33 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>CFBundleDevelopmentRegion</key>
-    <string>en</string>
-    <key>CFBundleExecutable</key>
-    <string>LowPower Automator</string>
-    <key>CFBundleIconFile</key>
-    <string>lowpower_automator_icon</string>
-    <key>CFBundleIdentifier</key>
-    <string>com.daniel.lowpowerautomator</string>
-    <key>CFBundleInfoDictionaryVersion</key>
-    <string>6.0</string>
-    <key>CFBundleName</key>
-    <string>LowPower Automator</string>
-    <key>CFBundleDisplayName</key>
-    <string>LowPower Automator</string>
-    <key>CFBundlePackageType</key>
-    <string>APPL</string>
-    <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
-    <key>CFBundleVersion</key>
-    <string>1</string>
-    <key>LSMinimumSystemVersion</key>
-    <string>10.14</string>
-    <key>LSUIElement</key>
-    <string>1</string>
-    <key>NSHumanReadableCopyright</key>
-    <string>Copyright © 2025 Daniel. See EULA.txt for license terms.</string>
-    <key>NSHighResolutionCapable</key>
-    <true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>LowPower Automator</string>
+	<key>CFBundleExecutable</key>
+	<string>LowPower Automator</string>
+	<key>CFBundleIconFile</key>
+	<string>lowpower_automator_icon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.daniel.lowpowerautomator</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>LowPower Automator</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSBackgroundOnly</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.14</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2025 Daniel. See EULA.txt for license terms.</string>
 </dict>
 </plist>
